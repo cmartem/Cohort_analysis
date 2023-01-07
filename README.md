@@ -4,7 +4,7 @@ Case: analytical department at a service alternative to Que faire à Paros. 1sr 
 
 Data:
 
-Server logs with data on Y.Afisha visits from January 2017 through December 2018
+Server logs with data on online events calendar. Data comprises visits from January 2017 through December 2018
 Dump file with all orders for the period
 Marketing expenses statistics
 Marketing department wants to know:
